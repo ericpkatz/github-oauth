@@ -5,7 +5,9 @@
   "main": "server.js",
   "dependencies": {
     "ejs": "^2.6.1",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "query-string": "^6.1.0",
+    "request": "^2.86.0"
   },
   "devDependencies": {},
   "scripts": {
